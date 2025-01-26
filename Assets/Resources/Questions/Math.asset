@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
   m_Name: Math
   m_EditorClassIdentifier: 
-  _info: 5+4=?
+  _info: ' Which number comes just before 500?'
   _answers:
-  - _info: 1
+  - _info: 490
     _isCorrect: 0
-  - _info: 8
-    _isCorrect: 0
-  - _info: 9
+  - _info: 499
     _isCorrect: 1
+  - _info: 501
+    _isCorrect: 0
   _useTimer: 1
   _timer: 6
   _answerType: 1

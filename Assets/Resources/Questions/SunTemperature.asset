@@ -12,14 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
   m_Name: SunTemperature
   m_EditorClassIdentifier: 
-  _info: The temperature of the sun is about ..
+  _info: Which number is even?
   _answers:
-  - _info: 10,000 Fahrenheit
+  - _info: 17
+    _isCorrect: 0
+  - _info: 23
+    _isCorrect: 0
+  - _info: 31
+    _isCorrect: 0
+  - _info: 42
     _isCorrect: 1
-  - _info: 100,000 Fahrenheit
-    _isCorrect: 0
-  - _info: 1,000 Fahrenheit
-    _isCorrect: 0
   _useTimer: 1
   _timer: 10
   _answerType: 1

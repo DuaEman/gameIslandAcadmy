@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
   m_Name: ChooseCorrectAnswer
   m_EditorClassIdentifier: 
-  _info: 2*0= ?
+  _info: Which shape has four equal sides?
   _answers:
-  - _info: 2
+  - _info: Triangle
     _isCorrect: 0
-  - _info: 0
+  - _info: Circle
+    _isCorrect: 0
+  - _info: Square
     _isCorrect: 1
-  - _info: 1
-    _isCorrect: 0
-  - _info: 22
+  - _info: Rectangle
     _isCorrect: 0
   _useTimer: 1
   _timer: 8
